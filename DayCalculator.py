@@ -1,4 +1,4 @@
-# 引入datetime模組，以便處理日期和時間相關的操作
+# 匯入 datetime 模組中的 datetime 類別，以便處理日期和時間
 from datetime import datetime
 
 # 提示使用者輸入第一個日期
